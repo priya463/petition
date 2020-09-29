@@ -20,7 +20,7 @@
   } 
 
 .section{
-background: linear-gradient(0deg,#9c91ff,#d496d0 50%,#ffd8f5);
+background: linear-gradients(0deg,#9c91ff,#d496d0 50%,#ffd8f5);
 height: 290px;
 }
 
